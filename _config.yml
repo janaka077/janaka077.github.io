@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://janaka077.github.io
+title: janaka077
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
